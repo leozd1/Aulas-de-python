@@ -5,8 +5,11 @@ Indice:
 Aulas do Curso em video 
 ----------------------------
 aula01 = Atalhos e dicas úteis
+----------------------------
 aula02 = extras
+----------------------------
 aula06 = exercicio de matematica  e variaveis
+----------------------------
 aula07 e 07b = operadores logigos e exercicios
 aula08 e 08b = Modulos (comandos import e from/import) e exercicios
 aula09 e 09b = Manipulções de Strings e exercicios
