@@ -1,6 +1,7 @@
 # Aulas de python
- Repositorio so pra guardar as aulas de python e bibliotecas criadas,
+ Repositorio so para guardar as aulas de python e bibliotecas criadas,
  para experimentos e aprendizados.
+
 Indice:
 Aulas do Curso em video 
 ----------------------------
