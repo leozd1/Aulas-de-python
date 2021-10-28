@@ -9,6 +9,8 @@ aula01 = Atalhos e dicas úteis
 
 aula02 = extras
 
+aulas03 a 05 = Instalação do Python em maquinas
+
 aula06 = exercicio de matematica  e variaveis
 
 aula07 e 07b = operadores logigos e exercicios
