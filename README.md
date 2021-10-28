@@ -11,6 +11,7 @@ aula02 = extras
 aula06 = exercicio de matematica  e variaveis
 ----------------------------
 aula07 e 07b = operadores logigos e exercicios
+
 aula08 e 08b = Modulos (comandos import e from/import) e exercicios
 aula09 e 09b = Manipulções de Strings e exercicios
 aula10 e 10b = Estruturas condicionais simples e compostas (if..else) e exercicios
